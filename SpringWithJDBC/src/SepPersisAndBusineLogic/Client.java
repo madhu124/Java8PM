@@ -7,6 +7,9 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Client {
 
+	
+	
+	
 	public static void main(String[] args) {
 
 		ApplicationContext ctx = new ClassPathXmlApplicationContext("Sep.xml");
